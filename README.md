@@ -1,8 +1,8 @@
 # VZCode - Compile and Execute code in 40+ languages
 
 ⚡️ A code editor that compiles and runs your code on the web.
-<img src="https://github.com/MrinalDas007/VZCode/demo.png" />
-<img src="https://github.com/MrinalDas007/VZCode/demo1.png" />
+<img src="https://github.com/MrinalDas007/VZCode/blob/main/demo.png" />
+<img src="https://github.com/MrinalDas007/VZCode/blob/main/demo1.png" />
 
 ## Features:
 
